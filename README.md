@@ -194,6 +194,7 @@ Source: A survey of product quantization.
 - Han, Jiabao, Mengxuan Zhang, and Goce Trajcevski. "[JHQ: Johnson-Lindenstrauss Enhanced Hierarchical Quantization for High-Dimensional Approximate Nearest Neighbor Search.](https://www.vldb.org/pvldb/vol19/p1530-han.pdf)"
 - Tepper, Mariano, and Theodore Willke. "[ASH: Asymmetric Scalar Hashing With Learned Dimensionality Reduction for High-Fidelity Vector Quantization.](https://arxiv.org/pdf/2606.07870)" arXiv preprint arXiv:2606.07870 (2026).
 - Bessa, Swann, et al. "[Cluster with Auctions for Vector Search](https://arxiv.org/pdf/2607.13728)." arXiv preprint arXiv:2607.13728 (2026).
+- Xu, Yuemeng, et al. "[InSituANN: Revisiting IVF for PCIe-Efficient Billion-Scale Vector Search.](https://arxiv.org/pdf/2608.08751)" arXiv preprint arXiv:2608.08751 (2026).
 
 ## Graph-based Methods
 
