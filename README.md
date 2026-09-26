@@ -142,6 +142,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - Li, Zhaoheng, et al. "[Cloud-Native Vector Search: A Comprehensive Performance Analysis.](https://arxiv.org/pdf/2511.14748)" arXiv preprint arXiv:2511.14748 (2025).
 - Song, Yitong, et al. "[Disk-Resident Vector Similarity Search: A Survey.](https://hkbudb.github.io/disk-vss-survey/Disk-Resident%20Vector%20Similarity%20Search-%20A%20Survey.pdf)"
 - XIE, JIADONG, YINGFAN LIU, and JEFFREY XU YU. "[A Survey on Query Processing in Vector Databases.](https://xiejiadong.github.io/files/paper/vector_survey.pdf)" (2026).
+- Jing, Liuchang, et al. "[A Survey of Vector Quantization for Approximate Nearest Neighbor Search.](https://www.researchgate.net/profile/Mingyu-Yang-26/publication/414393985_A_Survey_of_Vector_Quantization_for_Approximate_Nearest_Neighbor_Search/links/6aab62ad7ea1f607bf9269b3/A-Survey-of-Vector-Quantization-for-Approximate-Nearest-Neighbor-Search.pdf)"
 
 
 ## Quantization
